@@ -1,8 +1,7 @@
 /* Estilos para Leandro de Souza - Front-End */
 
 body {font-family: "Open Sans",-apple-system,BlinkMacSystemFont,”Segoe UI”,Roboto,Oxygen-Sans,Ubuntu,Cantarell,”Helvetica Neue”,sans-serif;
-
-
-}
-
+font-size: 17px; color: #666;}
+section {padding: 10px 0;}
 .row {width: 1140px;}
+
