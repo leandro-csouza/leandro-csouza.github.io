@@ -1,7 +1,37 @@
 /* Estilos para Leandro de Souza - Front-End */
 * {margin: 0; padding: 0; box-sizing: border-box; -moz-box-sizing: border-box; -webkit-box-sizing: border-box;}
-body {font-family: "Open Sans",-apple-system,BlinkMacSystemFont,”Segoe UI”,Roboto,Oxygen-Sans,Ubuntu,Cantarell,”Helvetica Neue”,sans-serif;
-font-size: 17px; color: #666;}
-section {padding: 10px 0;}
-.row {width: 1140px; margin: 0 auto;}
-
+body {font-family: 'Lato', 'Arial', sans-serif;font-size: 17px; color: #666; overflow-x: hidden;line-height: 130%;text-rendering: optimizeLegibility;}
+main {margin: 0 auto; padding: 0;}
+a {color: #333; text-decoration: none;}
+a:hover {color: #1b80c2;}
+p {margin: 12px 0;}
+section {padding: 35px 0;}
+section ul {margin: 15px 0 0 0; }
+section ul li{padding: 3px 0; list-style: none;}
+header{padding: 20px 0;}
+.clearfix {zoom: 1;}
+.clearfix:after { content: '.'; clear: both; display: block; height: 0;visibility: hidden;}
+.alignleft {text-align: left;}
+.alignright {text-align: right;}
+.aligncenter {text-align: center;}
+.row {max-width: 1140px; margin: 0 auto;}
+.box { padding: 1%; text-align: center; }
+.ico { font-size: 100%; margin-right: 5px;}
+.big { font-size: 180%; margin: 10px;}
+.wordpress {background-color: #042230; color: #ccc;}
+.wordpress h2 {color: #fff;}
+.opencart {background-color: #DDD; color: #333;}
+h1,h2, h3, h4 { font-weight: 300; margin-bottom: 10px;}
+h1 {font-size: 190%; }
+h2 {font-size: 160%;color: #000; }
+h4 {color: #fff; font-size: 120%;}
+.logo {float: left; padding: 10px 10px 0 20px; }
+.menu{ float: right; padding: 10px 10px 0 0;list-style: none;margin-top: 25px;}
+.menu ul {padding: 0;}
+.menu ul li { display: inline-block; color: #000; margin-right: 15px;text-transform: uppercase; font-weight: 300; }
+.btn { background-color: #1b80c2;padding: 10px 22px; border-radius: 5px; margin-top: 25px; text-align: center;border: none; color: #fff; }
+.btn a {color: #fff;} 
+button:hover {background-color: #0c6e9a; transition: 0.2s;;}
+footer {background-color: #042230; color: #ccc; padding: 20px; } 
+footer a{ color: #eee;}
+footer li {list-style: none; margin: 2px 0;}
