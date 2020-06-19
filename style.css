@@ -21,10 +21,10 @@ header{padding: 20px 0;}
 .wordpress {background-color: #042230; color: #ccc;}
 .wordpress h2 {color: #fff;}
 .opencart {background-color: #DDD; color: #333;}
-h1,h2, h3, h4 { font-weight: 300; margin-bottom: 10px;}
+h1,h2, h3, h4 { font-weight: 300; margin-bottom: 12px;}
 h1 {font-size: 190%; }
 h2 {font-size: 160%;color: #000; }
-h4 {color: #fff; font-size: 120%;}
+h4 {color: #87bee4; font-size: 120%;}
 .logo {float: left; padding: 10px 10px 0 20px; }
 .menu{ float: right; padding: 10px 10px 0 0;list-style: none;margin-top: 25px;}
 .menu ul {padding: 0;}
