@@ -6,7 +6,7 @@ a {color: #333; text-decoration: none;}
 a:hover {color: #1b80c2;}
 p {margin: 12px 0;}
 section {padding: 35px 0;}
-section ul {margin: 15px 0 0 0; }
+section ul {margin-top: 15px;}
 section ul li{padding: 3px 0; list-style: none;}
 header{padding: 20px 0;}
 .clearfix {zoom: 1;}
@@ -16,22 +16,22 @@ header{padding: 20px 0;}
 .aligncenter {text-align: center;}
 .row {max-width: 1140px; margin: 0 auto;}
 .box { padding: 1%; text-align: center; }
-.ico { font-size: 100%; margin-right: 5px;}
+.ico { font-size: 120%; margin-right: 5px;}
 .big { font-size: 180%; margin: 10px;}
 .wordpress {background-color: #042230; color: #ccc;}
 .wordpress h2 {color: #fff;}
 .opencart {background-color: #DDD; color: #333;}
 h1,h2, h3, h4 { font-weight: 300; margin-bottom: 12px;}
-h1 {font-size: 190%; }
-h2 {font-size: 160%;color: #000; }
+h1 {font-size: 190%;}
+h2 {font-size: 160%;color: #000;}
 h4 {color: #87bee4; font-size: 120%;}
-.logo {float: left; padding: 10px 10px 0 20px; }
+.logo {float: left; padding: 10px 10px 0 20px;}
 .menu{ float: right; padding: 10px 10px 0 0;list-style: none;margin-top: 25px;}
 .menu ul {padding: 0;}
 .menu ul li { display: inline-block; color: #000; margin-right: 15px;text-transform: uppercase; font-weight: 300; }
 .btn { background-color: #1b80c2;padding: 10px 22px; border-radius: 5px; margin-top: 25px; text-align: center;border: none; color: #fff; }
 .btn a {color: #fff;} 
 button:hover {background-color: #0c6e9a; transition: 0.2s;;}
-footer {background-color: #042230; color: #ccc; padding: 20px; } 
+footer {background-color: #042230; color: #ccc; padding: 20px;} 
 footer a{ color: #eee;}
-footer li {list-style: none; margin: 2px 0;}
+footer li {list-style: none; margin: 3px 0;}
