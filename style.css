@@ -1,14 +1,14 @@
 /* Estilos para Leandro de Souza - Front-End */
 * {margin: 0; padding: 0; box-sizing: border-box; -moz-box-sizing: border-box; -webkit-box-sizing: border-box;}
 body {font-family: 'Lato', 'Arial', sans-serif;font-size: 17px; color: #666; overflow-x: hidden;line-height: 130%;text-rendering: optimizeLegibility;}
-main {margin: 0 auto; padding: 0;}
+main {margin: 0 auto; padding: 0;letter-spacing: 1px;}
 a {color: #333; text-decoration: none;}
 a:hover {color: #1b80c2;}
 p {margin: 10px 0;}
 section {padding: 35px 0;}
 section ul {margin-top: 15px;}
 section ul li{padding: 3px 0; list-style: none;}
-article {padding: 10px; background-color: #EEE; }
+article {padding: 10px; background-color: #EEE;}
 header{padding: 5px 0; margin-top: 5px;}
 .clearfix {zoom: 1;}
 .clearfix:after { content: '.'; clear: both; display: block; height: 0;visibility: hidden;}
@@ -17,11 +17,11 @@ header{padding: 5px 0; margin-top: 5px;}
 .aligncenter {text-align: center;}
 .row {max-width: 1140px; margin: 0 auto;}
 .box { padding: 1%; text-align: center; }
-.boxa {padding: 1%; letter-spacing: 1px;}
+.boxa {padding: 1%;}
 .ico { font-size: 120%; margin-right: 5px;}
 .big { font-size: 180%; margin: 10px;}
 .sbig { font-size: 400%; color: #1b80c2; margin-bottom: 50px;}
-.br {background-color: #fff;}
+.br {background-color: #fff;} 
 .br h2 {text-align: center; font-weight: 500;  color: #042230;}
 .wordpress {background-color: #042230; color: #ccc;}
 .wordpress h2 {color: #fff;}
