@@ -20,13 +20,14 @@ header{padding: 5px 0; margin-top: 5px;}
 .boxa {padding: 1% 2.5%;}
 .ico { font-size: 120%; margin-right: 5px;}
 .big { font-size: 180%; margin: 10px;}
-.sbig { font-size: 400%; color: #1b80c2; margin-bottom: 50px;}
+.sbig, .sbigw { font-size: 400%; color: #1b80c2; margin-bottom: 50px;}
+.sbigw {color: #666;}
 .br {background-color: #fff;} 
 .br h2 {text-align: center; font-weight: 500;  }
 .wordpress {background-color: #042230; color: #ccc;}
 .wordpress h2 {color: #fff;}
 .opencart {background-color: #DDD; color: #333;}
-h1,h2, h3, h4 { font-weight: 300; margin-bottom: 10px; line-height: 100%;;}
+h1,h2, h3, h4 { font-weight: 300; margin-bottom: 15px; line-height: 100%;;}
 h1 {font-size: 230%; text-align: center;}
 h2 {font-size: 160%;color: #000;}
 h4 {color: #87bee4; font-size: 120%;}
