@@ -28,10 +28,10 @@ header{padding: 5px 0; margin-top: 5px;}
 .wordpress {background-color: #042230; color: #ccc;}
 .wordpress h2 {color: #fff;}
 .opencart {background-color: #DDD; color: #333;}
-h1, h2, h3, h4 { font-weight: 300; margin-bottom: 15px; line-height: 100%;text-align: center;}
-h1 {font-size: 230%; }
+h1, h2, h3, h4 { font-weight: 300; margin-bottom: 15px; line-height: 100%;}
+h1 {font-size: 230%;text-align: center; }
 h2 {font-size: 160%;color: #000; font-weight: 400;}
-h3 {font-size: 120%;margin-bottom: 1px;font-weight: 400}
+h3 {font-size: 120%;margin-bottom: 1px;font-weight: 400; }
 h4 {color: #87bee4; font-size: 120%;}
 .logo {float: left; margin-left: 45px;}
 .menu { float: right; padding: 5px 0;list-style: none;margin-top: 25px; }
