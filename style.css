@@ -23,6 +23,7 @@ header{padding: 5px 0; margin-top: 5px;}
 .big { font-size: 180%; margin: 10px;}
 .sbig, .sbigw { font-size: 400%; color: #1b80c2; margin-bottom: 50px;}
 .sbigw {color: #333;}
+ .relac{width: 200px; height: 160px;}
 .cz {background-color: #EEE;}
 .br {background-color: #fff;} 
 .wordpress {background-color: #042230; color: #ccc;}
