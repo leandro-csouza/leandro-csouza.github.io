@@ -54,17 +54,20 @@ footer {background-color: #042230; color: #ccc; padding: 20px;}
 footer a{ color: #eee;}
 footer li {list-style: none; margin: 3px 0;}
 
-/* Responsive */
+/* Responsivo */
 
 @media all and (max-width: 1020px) {
-
     .container { padding-left: 15px; padding-right: 15px;}
 }
 
-
-@media all and (max-width: 480px) {
+@media all and (max-width: 680px) {
+    body {font-size: 90%;}
     header nav {position: absolute; }
     header nav.nav-fixed {background: none; }
+    section {padding: 20px;}
+    .imagem {width: 98%; margin: 10px 0 20px 0;}
+    .btn {width: 100%; }
+    .boxb { margin: 2% 0;}
 
 ul.navigation {	list-style-type: none;margin: 0; padding: 0; max-height: 0;overflow: hidden;-webkit-transition: max-height .4s ease; transition: max-height .4s ease;}
     ul.navigation.navigation-opened {	max-height: 500px;	-webkit-transition: max-height 1s ease;transition: max-height 1s ease; }
