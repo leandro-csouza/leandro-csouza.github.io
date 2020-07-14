@@ -5,7 +5,6 @@
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
 <url>
   <loc>https://leandro-csouza.github.io/</loc>
   <changefreq>monthly</changefreq>
@@ -21,6 +20,7 @@
   <changefreq>monthly</changefreq>
   <priority>0.80</priority>
 </url>
+<url>
   <loc>https://leandro-csouza.github.io/seo.html</loc>
   <changefreq>monthly</changefreq>
   <priority>0.80</priority>
