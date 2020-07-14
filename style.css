@@ -34,8 +34,9 @@ header nav .nav-toggle {display: none;}
 .boxa {padding: 1% 2.5%;}
 .ico { font-size: 120%; margin-right: 5px;}
 .big { font-size: 180%; margin: 10px;}
-.sbig, .sbigw { font-size: 400%; color: #1b80c2; margin-bottom: 50px;}
+.sbig, .sbigw, .sbigg { font-size: 400%; color: #1b80c2; margin-bottom: 50px;}
 .sbigw {color: #333;}
+.sbigg {color: #666;}
  .relac{width: 200px; height: 160px;}
 .cz {background-color: #EEE;}
 .br {background-color: #fff;} 
