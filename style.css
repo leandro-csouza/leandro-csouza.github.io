@@ -15,12 +15,12 @@ body {
     overflow-x: hidden;
     line-height: 130%;
     text-rendering: optimizeLegibility;
+    letter-spacing: 1px;
 }
 
 main {
     margin: 0 auto;
     padding: 0;
-    letter-spacing: 1px;
 }
 
 a {
@@ -208,11 +208,6 @@ header nav .nav-toggle {
 
 .sbigg {
     color: #666;
-}
-
-.relac {
-    width: 200px;
-    height: 160px;
 }
 
 .cz {
